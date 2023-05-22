@@ -1,0 +1,17 @@
+
+.form_class{
+   padding-top: 10%;
+   padding-bottom: 10%;
+   background-color:darkgrey;
+   border-radius: 3%;
+   color: aliceblue;
+}
+
+.form_class h1{
+    color: aliceblue;
+}
+
+.form_class label{
+    padding-bottom: 2%;
+}
+
