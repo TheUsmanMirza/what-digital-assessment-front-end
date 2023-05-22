@@ -1,6 +1,6 @@
 # Getting Started with Git Clone 
 
-`git clone <repository-url>`
+`git clone https://github.com/TheUsmanMirza/what-digital-assessment-front-end.git`
 
 ## Steps to Start:
 
